@@ -5,7 +5,7 @@ various charitable organisations around the world. To ensure transparency and tr
 will be recorded on a blockchain network.
 
 ## How to RUN
-- Clone the repository: git clone [https://github.com/Churanta/Blockchain-based-Charity-Donation-Platform.git](https://github.com/eman3asem/donatecrypto.git)
+- Clone the repository: git clone https://github.com/eman3asem/donatecrypto.git
 - Open main.py
 - Create a virtual network 'python -m venv venv'
 - Install all dependencies using 'pip install -r requirements.txt'
@@ -57,6 +57,7 @@ Assumes basic security practices such as validating user inputs on the server si
 Assumes the use of MetaMask for secure wallet interactions.
 
 ## Decision-Making Process:
+I used [this repo](https://github.com/Churanta/Blockchain-based-Charity-Donation-Platform.git) as a base for my project and I added and modified my own solution.
 ### Flask as the Backend:
 - Flask was chosen as the backend framework for its simplicity and ease of use.
 - Suitable for small to medium-sized applications, making it a good fit for a donation platform.

@@ -7,10 +7,10 @@ will be recorded on a blockchain network.
 ## How to RUN
 - Clone the repository: git clone https://github.com/eman3asem/donatecrypto.git
 - Open main.py
-- Create a virtual network 'python -m venv venv'
-- Install all dependencies using 'pip install -r requirements.txt'
-- Install the database server 'pip install Flask SQLAlchemy'
-- To run the server type './run.sh'
+- Create a virtual network `python -m venv venv`
+- Install all dependencies using `pip install -r requirements.txt`
+- Install the database server `pip install Flask SQLAlchemy`
+- To run the server type `./run.sh`
 - Open http://localhost:5000 and display the webpage
 
 ## Application Architecture:
